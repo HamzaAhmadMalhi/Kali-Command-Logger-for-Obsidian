@@ -25,7 +25,7 @@ Need Obsidian installed on Kali Linux: https://obsidian.md/download
 
 ### Quick Install (Recommended)
 ```bash
-git clone https://github.com/yourusername/kali-obsidian-logger.git
+git clone https://github.com/HamzaAhmadMalhi/Kali-Command-Logger-for-Obsidian.git
 cd kali-obsidian-logger
 chmod +x setup.sh
 ./setup.sh
@@ -37,7 +37,7 @@ chmod +x setup.sh
 sudo apt install -y scrot imagemagick
 
 # Download and install klog
-sudo wget -O /usr/local/bin/klog https://raw.githubusercontent.com/yourusername/kali-obsidian-logger/main/klog
+sudo wget -O /usr/local/bin/klog https://github.com/HamzaAhmadMalhi/Kali-Command-Logger-for-Obsidian.git/main/klog
 sudo chmod +x /usr/local/bin/klog
 
 # Configure vault path
